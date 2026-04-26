@@ -22,7 +22,7 @@
 | 회차 | 발표 주제 및 스터디원 |
 | :--- | :--- |
 | [**1회차** (2026.4.01)](#session-1) | • 가위바위보 필승법 (👤 율무)<br>• JVM 구조 알아보기 (👤 돔푸) |
-| [**2회차** (2026.4.08)](#session-2) | • Spring Batch 톺아보기 (👤 돔푸) |
+| [**2회차** (2026.4.08)](#session-2) | • Spring Batch 톺아보기 (👤 돔푸)<br>• 공간인덱스 (👤 지오) |
 
 
 <br>
@@ -64,9 +64,9 @@
 
 ## **2회차** ( 2026년 4월 8일 )
 
-> | Spring Batch 톺아보기 |
-> | :-: |
-> | 돔푸 |
+> | Spring Batch 톺아보기 | 공간인덱스 |
+> | :-: | :-: |
+> | 돔푸 | 지오 |
 
 ### 💎 스터디자료
 
@@ -75,13 +75,17 @@
     <td width="50%" align="center">
       <img src="https://github.com/dompoo/study-bootstrapper-demo/raw/main/.automation/thumbnails/s02_%EB%8F%94%ED%91%B8.png" width="100%">
     </td>
-    <td>&nbsp;</td>
+    <td width="50%" align="center">
+      <img src="https://github.com/dompoo/study-bootstrapper-demo/raw/main/.automation/thumbnails/s02_%EC%A7%80%EC%98%A4.png" width="100%">
+    </td>
   </tr>
   <tr>
     <td align="center">
       <a href="https://github.com/dompoo/study-bootstrapper-demo/blob/main/02_2%ED%9A%8C%EC%B0%A8/Spring%20Batch%20%ED%86%BA%EC%95%84%EB%B3%B4%EA%B8%B0.pdf">[📚 Spring Batch 톺아보기]</a>
     </td>
-    <td>&nbsp;</td>
+    <td align="center">
+      <a href="https://github.com/dompoo/study-bootstrapper-demo/blob/main/02_2%ED%9A%8C%EC%B0%A8/%EA%B3%B5%EA%B0%84%EC%9D%B8%EB%8D%B1%EC%8A%A4.pdf">[📚 공간인덱스]</a>
+    </td>
   </tr>
 </table>
 

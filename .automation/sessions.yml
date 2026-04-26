@@ -17,3 +17,7 @@ sessions:
     presenter: 돔푸
     pdf: 02_2회차/Spring Batch 톺아보기.pdf
     thumbnail: .automation/thumbnails/s02_돔푸.png
+  - title: 공간인덱스
+    presenter: 지오
+    pdf: 02_2회차/공간인덱스.pdf
+    thumbnail: .automation/thumbnails/s02_지오.png
