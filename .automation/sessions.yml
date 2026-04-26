@@ -6,6 +6,10 @@ sessions:
     presenter: 율무
     pdf: 01_1회차/가위바위보 필승법.pdf
     thumbnail: .automation/thumbnails/s01_율무.png
+  - title: JVM 구조 알아보기
+    presenter: 돔푸
+    pdf: 01_1회차/JVM 구조 알아보기.pdf
+    thumbnail: .automation/thumbnails/s01_돔푸.png
 - session: 2
   date: '2026-04-08'
   presentations:

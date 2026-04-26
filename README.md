@@ -21,7 +21,7 @@
 
 | 회차 | 발표 주제 및 스터디원 |
 | :--- | :--- |
-| [**1회차** (2026.4.01)](#session-1) | • 가위바위보 필승법 (👤 율무) |
+| [**1회차** (2026.4.01)](#session-1) | • 가위바위보 필승법 (👤 율무)<br>• JVM 구조 알아보기 (👤 돔푸) |
 | [**2회차** (2026.4.08)](#session-2) | • Spring Batch 톺아보기 (👤 돔푸) |
 
 
@@ -32,9 +32,9 @@
 
 ## **1회차** ( 2026년 4월 1일 )
 
-> | 가위바위보 필승법 |
-> | :-: |
-> | 율무 |
+> | 가위바위보 필승법 | JVM 구조 알아보기 |
+> | :-: | :-: |
+> | 율무 | 돔푸 |
 
 ### 💎 스터디자료
 
@@ -43,13 +43,17 @@
     <td width="50%" align="center">
       <img src="https://github.com/dompoo/study-bootstrapper-demo/raw/main/.automation/thumbnails/s01_%EC%9C%A8%EB%AC%B4.png" width="100%">
     </td>
-    <td>&nbsp;</td>
+    <td width="50%" align="center">
+      <img src="https://github.com/dompoo/study-bootstrapper-demo/raw/main/.automation/thumbnails/s01_%EB%8F%94%ED%91%B8.png" width="100%">
+    </td>
   </tr>
   <tr>
     <td align="center">
       <a href="https://github.com/dompoo/study-bootstrapper-demo/blob/main/01_1%ED%9A%8C%EC%B0%A8/%EA%B0%80%EC%9C%84%EB%B0%94%EC%9C%84%EB%B3%B4%20%ED%95%84%EC%8A%B9%EB%B2%95.pdf">[📚 가위바위보 필승법]</a>
     </td>
-    <td>&nbsp;</td>
+    <td align="center">
+      <a href="https://github.com/dompoo/study-bootstrapper-demo/blob/main/01_1%ED%9A%8C%EC%B0%A8/JVM%20%EA%B5%AC%EC%A1%B0%20%EC%95%8C%EC%95%84%EB%B3%B4%EA%B8%B0.pdf">[📚 JVM 구조 알아보기]</a>
+    </td>
   </tr>
 </table>
 
