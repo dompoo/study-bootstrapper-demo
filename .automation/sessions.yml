@@ -1,1 +1,8 @@
-sessions: []
+sessions:
+- session: 1
+  date: '2026-04-01'
+  presentations:
+  - title: 가위바위보 필승법
+    presenter: 율무
+    pdf: 01_1회차/가위바위보 필승법.pdf
+    thumbnail: .automation/thumbnails/s01_율무.png

@@ -1,25 +1,55 @@
-# 📚 스터디자료 자동 정리 템플릿
+# 📚 study-bootstrapper-demo
 
-스터디 스터디자료(PDF)를 **이슈만 올리면** 자동으로 정리되는 GitHub 레포 템플릿입니다.
+- [study-bootstrapper](https://github.com/dompoo/study-bootstrapper)의 데모 레포지토리입니다.
+- 자세한 내용은 해당 레포지토리를 참고해주세요.
 
-- 📝 이슈 폼에 PDF 첨부 → GitHub Actions가 PDF를 받아 디렉터리에 저장
-- 🖼️ PDF 첫 페이지를 썸네일로 자동 추출
-- 📋 README의 목차 / 회차별 섹션 자동 갱신
-- ↩️ 잘못 올린 자료는 롤백 이슈로 한 번에 제거
+## 🚀 스터디원
 
-> 💡 **회차(session) 개념**: 한 회차는 한 번의 스터디 모임이며 여러 발표가 묶일 수 있습니다. 1주에 여러 회차를 진행해도 됩니다.
+<table>
+  <tr height="140px">
+    <td align="center">
+      <a href="https://github.com/dompoo">
+        <img src="https://avatars.githubusercontent.com/u/46932235?v=4" alt="돔푸" width="100" />
+      </a>
+      <br />
+      <a href="https://github.com/dompoo">돔푸 💻</a>
+    </td>
+  </tr>
+</table>
+
+## 📣 목차
+
+| 회차 | 발표 주제 및 스터디원 |
+| :--- | :--- |
+| [**1회차** (2026.4.01)](#session-1) | • 가위바위보 필승법 (👤 율무) |
+
+
+<br>
+<br>
+<br/>
+<a id="session-1"></a>
+
+## **1회차** ( 2026년 4월 1일 )
+
+> | 가위바위보 필승법 |
+> | :-: |
+> | 율무 |
+
+### 💎 스터디자료
+
+<table>
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://github.com/dompoo/study-bootstrapper-demo/raw/main/.automation/thumbnails/s01_%EC%9C%A8%EB%AC%B4.png" width="100%">
+    </td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/dompoo/study-bootstrapper-demo/blob/main/01_1%ED%9A%8C%EC%B0%A8/%EA%B0%80%EC%9C%84%EB%B0%94%EC%9C%84%EB%B3%B4%20%ED%95%84%EC%8A%B9%EB%B2%95.pdf">[📚 가위바위보 필승법]</a>
+    </td>
+    <td>&nbsp;</td>
+  </tr>
+</table>
 
 ---
-
-## 🚀 빠른 시작
-
-1. 이 페이지 우상단의 **`Use this template`** → **`Create a new repository`** 로 새 레포 생성
-2. `.automation/templates/readme_header.md` 를 **자기 스터디 정보**로 수정 (스터디 이름 / 소개 / 멤버 / 연락처)
-3. **Issues** 탭 → **New issue** → **`스터디자료 업로드`** 폼을 채우고 PDF 첨부 → Submit
-
-자세한 사용법은 [SETUP.md](./SETUP.md) 를 참고해주세요.
-
----
-
-> 💡 첫 발표 이슈가 처리되면 이 README는 자동으로 발표 목록 페이지로 교체됩니다.   
-> 영구 가이드는 [SETUP.md](./SETUP.md) 에 있습니다.
